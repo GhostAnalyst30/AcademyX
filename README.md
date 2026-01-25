@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📦 Descripción AcademyX
 
 **AcademyX** es un paquete de Python diseñado para unificar, simplificar y potenciar el aprendizaje y uso de herramientas académicas y científicas en un solo ecosistema.
@@ -66,7 +65,3 @@ pip install academyx
 ## 🤝 Contribuciones ¡Todas las mejoras e ideas son bienvenidas! 
 
 E-mail: ascendraemmanuel@gmail.com
-=======
-# AcademyX
-Es un paquete de Python diseñado para comprender temas academicos desde lineas de codigo hasta generacion de videos interactivos con Manim e IA
->>>>>>> 4680217ce75c74c1b7f5fec98ddd481fa36c2e78
