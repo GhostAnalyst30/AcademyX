@@ -1,0 +1,2 @@
+class Mechanics:
+    pass
