@@ -8,12 +8,12 @@ __version__ = "0.1.0"
 __author__ = "Emmanuel Ascendra"
 
 # Importar las clases principales
-from academy.ai.solver import set_openrouter_api
-from academy.calculus import Differential, Integral, MultiVariable, DifferentialEquations
-from academy.electronic import DigitalSystem, Circuits
-from academy.physics import Mechanics, Electromagnetism, Waves, Heat
-from academy.statistics import Descriptive, Inferential
-from academy.utils import manim_video_steps
+from academyx.ai.solver import set_openrouter_api
+from academyx.calculus import Differential, Integral, MultiVariable, DifferentialEquations
+from academyx.electronic import DigitalSystem, Circuits
+from academyx.physics import Mechanics, Electromagnetism, Waves, Heat
+from academyx.statistics import Descriptive, Inferential
+from academyx.utils import manim_video_steps
 
 
 # Definir qué se expone cuando se hace: from statslib import *

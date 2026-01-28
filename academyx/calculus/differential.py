@@ -6,7 +6,7 @@ class Differential:
         self.var = sp.symbols(variable)
         self.api_key = api_key
 
-    def derivative(self, expr, order=1, evaluate=True):
+    def derivate(self, expr, order=1, evaluate=True):
         expr = to_sympy(expr, {str(self.var): self.var})
         return sp.diff(expr, self.var, order, evaluate=evaluate)
 

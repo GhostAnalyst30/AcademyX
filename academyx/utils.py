@@ -52,7 +52,7 @@ import sympy as sp
 
 MISTRAL_API_URL = "https://api.mistral.ai/v1/chat/completions"
 
-from academy.ai.solver import solve_with_ai
+from academyx.ai.solver import solve_with_ai
 
 # ---------- Manim Generator ----------
 def manim_video_steps(expr, var="x", output_dir="manim_output"):
